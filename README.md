@@ -22,5 +22,5 @@ eletrodomésticos, utilizando diferentes formas de pagamento no terminal.
 - Codigo gerado da linha 73 a 78
   
 ## Observações
-Sou iniciante, 4 meses de estudo
-Projeto desenvolvido para eu aprimorar na minha lógica de programação
+- Sou iniciante, 4 meses de estudo
+- Projeto desenvolvido para eu aprimorar minha lógica de programação
