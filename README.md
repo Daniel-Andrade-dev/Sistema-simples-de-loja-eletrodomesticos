@@ -14,7 +14,13 @@ eletrodomésticos, utilizando diferentes formas de pagamento no terminal.
 
 ## Tecnologias utilizadas
 - Python
-
+  
+## Porcentagem de uso da IA
+- 5%
+- Uso foi responsável pelo calculo de juros e parcela
+- Função que foi usada pagar_parcelado_12_vezes()
+- Codigo gerado da linha 73 a 78
+  
 ## Observações
 Projeto desenvolvido para fins educacionais, com foco em lógica de programação,
 organização de código e estruturação de funções.
