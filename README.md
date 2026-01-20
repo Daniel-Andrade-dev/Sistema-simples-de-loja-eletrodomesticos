@@ -20,5 +20,4 @@ eletrodomésticos, utilizando diferentes formas de pagamento no terminal.
 - Uso foi responsável, para lembrar como calcula juros (:
   
 ## Observações
-- Sou iniciante,  8 meses de estudo
 - Projeto desenvolvido para eu aprimorar minha lógica de programação
